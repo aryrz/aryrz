@@ -4,6 +4,9 @@ my name is **aryrz**
 
 I am Student at **Sekolah DevOps Cilsy** and Open University.
 
+<!-- gif Image -->
+<img src="https://github.com/aryrz/aryrz/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+
    <p align="left">
     <a href="https://github.com/aryrz">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryrz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
