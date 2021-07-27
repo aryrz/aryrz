@@ -5,7 +5,7 @@ my name is **aryrz**
 I am Student at **Sekolah DevOps Cilsy** and Open University.
 
 <!-- gif Image -->
-<img src="https://raw.githubusercontent.com/aryrz/aryrz/main/life_balance.giff" alt="side Image" align="right" width="460" height="auto" />
+<img src="https://raw.githubusercontent.com/aryrz/aryrz/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
    <p align="left">
     <a href="https://github.com/aryrz">
