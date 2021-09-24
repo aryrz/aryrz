@@ -13,7 +13,7 @@ my name is **aryrz** , I am Student at [..]
 
 # 3C + V :
 
-- Context: what you doing? what you learning?
-- Concept: Routing, implementation etc
-- Config
-- Verification
+- **Context:** what you doing? what you learning?
+- **Concept:** Routing, implementation etc
+- **Config**
+- **Verification**
