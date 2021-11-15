@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is **aryrz** , I am Student at [..]
+my name is **aryrz** , I am an System & Network Enthusiast
 
 
    <p align="left">
