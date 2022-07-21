@@ -7,6 +7,14 @@ This is the place where I opensource stuff and break things 🤣
 - 📫 How to reach me: on <a href="https://www.linkedin.com/in/harryarz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 
+# The Quotes from my teacher: 3C + V :
+
+- **Context:** what you doing? what you learning?
+- **Concept:** Routing, implementation etc
+- **Config**
+- **Verification**
+
+
    <p align="left">
     <a href="https://github.com/aryrz">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryrz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -14,10 +22,3 @@ This is the place where I opensource stuff and break things 🤣
        <img src="https://raw.githubusercontent.com/aryrz/aryrz/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
     </a>
     </p>
-
-# The Quotes from my teacher: 3C + V :
-
-- **Context:** what you doing? what you learning?
-- **Concept:** Routing, implementation etc
-- **Config**
-- **Verification**
