@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things 🤣
     </a>
     </p>
 
-# 3C + V :
+# The Quotes from my teacher: 3C + V :
 
 - **Context:** what you doing? what you learning?
 - **Concept:** Routing, implementation etc
