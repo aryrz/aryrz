@@ -1,6 +1,10 @@
 ### Hi there 👋
+This is the place where I opensource stuff and break things 🤣
 
-my name is **aryrz** , I am an SysAdmin, Cloud Engineer, DevOps & Network Enthusiast
+- 🔭 I’m currently working on **System Engineer**
+- 💬 Ask me about **Linux, Sysadmin, Cloud & Devops**
+- 🌱 I’m currently learning **Python and DevOps Culture**
+- 📫 How to reach me: on <a href="https://www.linkedin.com/in/harryarz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 
    <p align="left">
