@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on **System Engineer**
-- 💬 Ask me about **Linux, Sysadmin, Cloud & Devops**
+- 💬 Ask me about **Network, Linux, Sysadmin, Cloud & Devops**
 - 🌱 I’m currently learning **Python and DevOps Culture**
 - 📫 How to reach me: on <a href="https://www.linkedin.com/in/harryarz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
